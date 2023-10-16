@@ -1,0 +1,3 @@
+step,type,amount,nameOrig,oldbalanceOrg,newbalanceOrig,nameDest,oldbalanceDest,newbalanceDest,isFraud,isFlaggedFraud
+1,TRANSFER,181.0,C1305486145,181.0,0.0,C553264065,0.0,0.0,1,0
+20,PAYMENT,181.0,C213502766,11538.0,11357.0,M732696431,0.0,0.0,0,0
